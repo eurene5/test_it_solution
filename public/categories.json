@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "text": "Tout",
+      "active": true
+    },
+    {
+      "text": "Santé / Hygiène",
+      "icon": "HeartIcon",
+      "active": false
+    },
+    {
+      "text": "Accès à l'énergie",
+      "icon": "BoltIcon",
+      "active": false
+    },
+    {
+      "text": "Education",
+      "icon": "AcademicCapIcon",
+      "active": false
+    },
+    {
+      "text": "Digital",
+      "icon": "ComputerDesktopIcon",
+      "active": false
+    }
+  ]
+}
